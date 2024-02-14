@@ -6,7 +6,7 @@
 
 .header {
     width: 100%;
-    height: 10em;
+    height: 150px;
     background-color: #345cd7;
 }
 
@@ -23,4 +23,11 @@
     width: 100%;
     height: 25px;
     background-color: aqua;
+}
+
+/*STILI IMMAGGINI*/
+#logo {
+    
+    width: 200px;
+    height: 150px;
 }
