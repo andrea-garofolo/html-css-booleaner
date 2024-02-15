@@ -20,8 +20,8 @@
 
 .header-background {
     height: 100px;
-    background:#82b0c8 url(/img/png/pattern.png) no-repeat center center;
-    background-size:cover;
+    background:#82b0c8 url(/img/png/pattern.png) center center;
+    background-size:30%;
    
 }
 
